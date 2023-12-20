@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Atanu Das Bapon"
   avatar           : "profile.png"
-  bio              : "Database Administrator (DBA)"
+  bio              : "Database Administrator (DBA) at ASA Bangladesh"
   location         : "Dhaka, Bangladesh"
-  employer         : "ASA Bangladesh"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  employer         : 
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=qIpz1T8AAAAJ&hl=en"
   email            : "atanudasbapon@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Atanu-Das-Bapon"
   uri              :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/atanu-bapon/"
+  linkedin         : "atanu-bapon"
   orcid            : "https://orcid.org/0009-0008-0775-7440"
   pinterest        :
   soundcloud       :
