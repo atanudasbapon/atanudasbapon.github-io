@@ -114,8 +114,8 @@ author:
   weibo            :
   xing             :
   youtube          :
-  wikipedia        :
-
+  wikipedia        : "Atanu Das Bapon"
+  mastodon         : "atanudasbapon"
 
 # Reading Files
 include:
